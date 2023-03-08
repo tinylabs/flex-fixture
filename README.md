@@ -9,7 +9,13 @@ Oscilloscope fixture to ease in simple probing without causing undue mess on the
 * [P100 pogo pins](https://www.amazon.com/gp/product/B018HMJKRG)
 * [P100 pogo pin receptacle](https://www.amazon.com/Spring-Probe-Sleeve-Accessory-R125%E2%80%914s/dp/B0B6PNLFZ7)
 * [CONBNC002](https://www.mouser.com/ProductDetail/Linx-Technologies/CONBNC002)
+* Probe to BNC adapter (typically included with oscope probes)
 * Twisted pair wire from CAT5 cable
+* Zip ties to mount o-scope probe to probe mount
+* M5 screws to mount probe mount to boom mount
+* M4 screws to mount PCBs to 3d printed parts
+* M4/M5 tap for 3d printed parts
+* Recommended resin is Sirayatech blu
 
 ### 3D printed parts
 * Boom mount
